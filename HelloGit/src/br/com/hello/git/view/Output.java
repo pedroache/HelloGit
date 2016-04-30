@@ -9,5 +9,9 @@ public class Output {
 	public static void goodByeGit(){
 		System.out.println("Good Bye Git!");
 	}
+	
+	public static void letsGoGit(){
+		System.out.println("Let's Go Git!");
+	}
 
 }
